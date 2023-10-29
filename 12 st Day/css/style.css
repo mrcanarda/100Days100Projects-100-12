@@ -1,0 +1,211 @@
+/* 
+font-family: 'Epilogue', sans-serif; 
+500 
+700 
+*/
+
+.logo {
+  margin-top: 0.4rem;
+  margin-right: 1.4rem;
+}
+
+/*
+.feaures company carrers about;
+
+*/
+
+/**********************
+**** NAV LINKS ********
+**********************/
+
+.features:link,
+.features:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.features:hover,
+.features:active {
+  color: hsl(0, 0%, 8%);
+}
+
+.company:link,
+.company:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.company:hover,
+.company:active {
+  color: hsl(0, 0%, 8%);
+}
+
+.careers:link,
+.careers:visited {
+  margin-top: 0.2rem;
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.careers:hover,
+.careers:active {
+  color: hsl(0, 0%, 8%);
+}
+
+.about:link,
+.about:visited {
+  margin-top: 0.3rem;
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.about:hover,
+.about:active {
+  color: hsl(0, 0%, 8%);
+}
+
+/**********************
+**** LOGIN ********
+**********************/
+
+.login:link,
+.login:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.login:hover,
+.login:active {
+  color: hsl(0, 0%, 8%);
+}
+
+/**********************
+**** REGISTER ********
+**********************/
+
+.register:link,
+.register:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+  padding: 1rem;
+  border: 1px solid hsl(0, 0%, 41%);
+  border-radius: 12px;
+}
+
+.register:hover,
+.register:active {
+  color: hsl(0, 0%, 8%);
+  border: 1px solid hsl(0, 0%, 8%);
+}
+
+/**********************
+**** PAGE__RIGHT__IMG **
+**********************/
+
+.images__desktop {
+  width: 50rem;
+  margin-left: 12rem;
+}
+
+/**********************
+** PAGE__LEFT__HEADER **
+**********************/
+
+.make__remote__work {
+  font-size: 8rem;
+  line-height: 1.2;
+}
+
+.make__remote__work span {
+  font-size: 8rem;
+}
+
+/**********************
+** PAGE__LEFT__PARAGRA **
+**********************/
+
+.house__page__paragraph__ {
+  color: hsl(0, 0%, 41%);
+  font-size: 1.6rem;
+  width: 80%;
+  margin-top: 4rem;
+  line-height: 1.6;
+  margin-bottom: 4rem;
+}
+
+/**********************
+***** BUTTON ****
+**********************/
+
+.learn__btn:link,
+.learn__btn:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Epilogue", sans-serif;
+  color: #fff;
+  transition: all 0.2s;
+  font-size: 1.4rem;
+  font-weight: 500;
+  background-color: hsl(0, 0%, 8%);
+  padding: 1.4rem 3rem;
+  border: 1px solid hsl(0, 0%, 41%);
+  border-radius: 12px;
+}
+
+.learn__btn:hover,
+.learn__btn:active {
+  color: hsl(0, 0%, 8%);
+  border: 1px solid hsl(0, 0%, 8%);
+  background-color: transparent;
+}
+
+/**********************
+***** SUPONSORS ****
+**********************/
+
+.sponsor {
+  margin-top: 6rem;
+  gap: 4rem;
+}
+
+.planing img {
+  margin-left: 1rem;
+}
+
+.planing p {
+  margin-right: 2rem;
+}
+
+.hidden {
+  display: none;
+}
